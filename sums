@@ -1,0 +1,45 @@
+ r = int(input("Enter the expected rainfall (in mm): "))
+# if r >= 0 and r <= 15:
+#     print("Alert: Green")
+#     print("Message: No warning, light rain expected.")
+# elif r >= 16 and r <= 64:
+#     print("Alert: Yellow")
+#     print("Message: Be updated moderate rain expected.")
+# elif r >= 65 and r <= 115:
+#     print("Alert: Orange")
+#     print("Message: Be prepared heavy rain expected.")
+# else:
+#     print("Alert: Red")
+#     print("Message: Take action extremely heavy rain expected.")
+
+
+
+# a = int(input("Enter a number: "))
+# if a % 10 == 6:
+#     print("Yes")
+# else:
+#     print("No")
+
+
+
+# a = int(input("Enter first number: "))
+# b = int(input("Enter second number: "))
+# print("Multiples of 7 in reverse order:")
+# for i in range(b, a-1, -1):
+#     if i % 7 == 0:
+#         print(i)
+
+
+
+# name = input("Enter username: ")
+# if name == "Joseph":
+#     print("Hi Joseph")
+# else:
+#     print("You are not Joseph")
+
+
+# num = [10 , 20]
+# total = 0
+# for a in num:
+#     total = total + a
+# print("Total sum =", total)
